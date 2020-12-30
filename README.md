@@ -1,5 +1,7 @@
 # BuyAndSell
 
+Open Link @ https://imthesk01.github.io/Buy-sell/
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.2.0.
 
 ## Development server
